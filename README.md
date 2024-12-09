@@ -3,14 +3,17 @@
 ![ecomerce](https://github.com/user-attachments/assets/d6ef7901-b112-4cda-b6d9-add33f16289c)
 
 Summary:
+
 The Salman Ecommerce Sales Dashboard provides a comprehensive visual overview of key sales metrics, enabling stakeholders to assess the company's performance.
 
 Key highlights include:
+
 Total Sales Amount: 438K, with an Average Order Value (AOV) of 121K.
 Total Quantity Sold: 5615 units, reflecting diverse customer preferences.
 Profit Generation: Cumulatively reaching 37K.
 
 Insights:
+
 Customer Contributions: Sales are tracked by customer names, with notable contributions from individuals like Harivansh and Madhav.
 Product Categories: Clothing dominates sales volume (63%), followed by Electronics (21%) and Furniture (17%).
 Geographic Sales Breakdown: The dashboard illustrates sales contributions from major states, including Maharashtra and Madhya Pradesh.
